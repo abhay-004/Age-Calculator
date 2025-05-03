@@ -8,7 +8,7 @@ A simple and clean Age Calculator web app built using **HTML**, **CSS**, and **J
 
 ## 🖼️ Preview
 
-![Age Calculator Screenshot](screenshot/agecalc.PNG)  
+![Age Calculator Screenshot](screenshot/ageCalc.PNG)  
 
 ## 🛠️ Features
 
