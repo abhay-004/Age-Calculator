@@ -4,19 +4,16 @@ A simple and clean Age Calculator web app built using **HTML**, **CSS**, and **J
 
 ## 🚀 Live Preview
 
-🔗 [Click here to view the live demo](https://your-username.github.io/age-calculator/)  
-_(Replace the above URL with your actual GitHub Pages link)_
+🔗 [Click here to view the live demo](https://age-calculator-abhay-004.netlify.app/)  
 
 ## 🖼️ Preview
 
-![Age Calculator Screenshot](./preview.png)  
-_(Make sure the image file `preview.png` is in the root of your repo or update the path accordingly)_
+![Age Calculator Screenshot](screenshot/agecalc.PNG)  
 
 ## 🛠️ Features
 
 - User-friendly interface
 - Accurate calculation of age in years, months, and days
-- Responsive design
 - Real-time validation for inputs
 
 ## 🧰 Technologies Used
